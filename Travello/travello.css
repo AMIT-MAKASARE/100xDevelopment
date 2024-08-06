@@ -1,0 +1,82 @@
+
+.HeroNav-sec-img{
+    height: 100vh;
+    background-image: url("a-greek-monastary-on-a-cliff-ultra-hd-realistic-vivid-colors-highly-detailed-uhd-drawing-pen-a-269387045.png");
+    background-size: cover;
+    
+    
+}
+
+
+
+.nav-link{
+  font-weight: 700;
+ 
+
+}
+.big-transp-box{
+    background-color: #f4f4f457;
+
+}
+.big-heading > h1{
+    padding-top: 4rem ;
+}
+.sm-box{
+  
+    border: 1px solid white;
+}
+.sm-box button{
+    color: gray;
+    
+}
+.cards{
+    margin-top: 10rem;
+}
+
+
+.client-section{
+    margin-top: 4rem;
+    background-color: rgb(8, 19, 82);
+}
+#footer-setion{
+    height: 100vh;
+    background-image: url("best-friends-traveling-through-foreign-realms-alien-worlds-hidden-adventures-serene-beauty-of-the-71272544.png");
+    background-size:cover;
+}
+
+.p-info-name button{
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: rgba(255,255,255,0.5);
+}
+.p-info-name button:hover{
+ 
+  border-bottom: white 3px solid;
+  width: 100%;
+}
+
+.p-info-email button{
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: rgba(255,255,255,0.5);
+}
+.p-info-email button:hover{
+ 
+    border-bottom: white 3px solid;
+    width: 100%;
+  }
+.p-info-button{
+    width: 100%;
+    height: 100%;
+    border:none;
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.5);
+}
+.ads img{
+    margin-left: 100px;
+}
+.footer {
+    padding:10%;
+}
