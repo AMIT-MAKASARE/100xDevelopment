@@ -6,7 +6,7 @@ app.get("/sum",function(req,res){
     const b=parseInt(req.query.b);
 
     res.json({
-      answer: a+b
+      answer: a+b;
     })
     console.log(answer);
     
