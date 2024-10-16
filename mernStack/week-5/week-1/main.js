@@ -34,7 +34,7 @@
 
 function assingt(arr){
     let arr2=[]
-    for(let i=0;i<=arr.length;i++){
+    for(let i=0;i<arr.length;i++){
         if(arr[i].gender === "male" && arr[i].age>18){
             arr2.push(arr[i])
         }
